@@ -4,7 +4,7 @@
   "description": "Based on a [tech test](https://github.com/alakijaayo/skills-workshops/tree/master/week-8/battleships) that is available at Makers, the aim of this project is to build a game of battleship that works when run in Terminal. Unlike the tech test that is done using Ruby, I am going to try my hand at building it in JavaScript/Node.JS, using Mocha and Chai for testing.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
